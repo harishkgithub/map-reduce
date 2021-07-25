@@ -68,4 +68,5 @@ public class SalesTransactionQ1Driver extends Configured implements Tool {
     }
 
     //http://www.thecloudavenue.com/2012/10/debugging-hadoop-mapreduce-program-in.html
+    //http://www.thecloudavenue.com/2011/11/passing-parameters-to-mappers-and.html
 }
