@@ -1,0 +1,5 @@
+1,11,mobile,15000.0,50,2019,india
+1,11,mobile,25000.0,15,2019,spain
+1,21,laptop,120000.0,30,2019,germany
+1,11,mobile,25000.0,10,2019,india
+1,11,mobile,10000.0,150,2019,india
